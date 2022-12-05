@@ -1,0 +1,31 @@
+window#waybar{
+    background: rgba(0,0,0,0);
+}
+
+
+.modules-right {
+    color: black;
+    border-radius: 15px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 1);
+}
+
+.modules-center {
+    color: white;
+}
+#memory, #clock {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.modules-left {
+    color: black;
+    border-radius: 15px;
+    padding: 10px;
+    background: rgba(255,255,255,1)
+}
+
+#icon, #cpu {
+    padding-left: 15px;
+    padding-right: 15px;
+}
